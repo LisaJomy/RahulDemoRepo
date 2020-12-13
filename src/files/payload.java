@@ -1,7 +1,7 @@
 package files;
 
 public class payload {
-	
+	// this is the first comment aded
 public static String addPlace(){
 	
    return "{\r\n" + 
@@ -22,7 +22,7 @@ public static String addPlace(){
    		"}";
 }
 
-
+// this is the second comment added
 
 public static String coursesPrice(){
 	
